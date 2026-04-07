@@ -6,7 +6,7 @@
 
 Portofolio profesional milik **Rega Anton Giapierro** — _Junior Software Engineer & Cybersecurity Enthusiast_. Website ini dirancang untuk menampilkan keseimbangan antara keahlian membangun aplikasi web (Development/Builder) dan pemahaman tentang pengujian keamanan siber (Red Team/Breaker).
 
-🔗 **Live Demo:** [https://portofolio-anda.vercel.app](https://portofolio-anda.vercel.app) _(Ubah dengan tautan Vercel Anda nanti)_
+🔗 **Live Demo:** [https://my-portofolio-beta-topaz.vercel.app/](https://my-portofolio-beta-topaz.vercel.app/)
 
 ---
 
@@ -33,8 +33,8 @@ Pastikan Anda sudah menginstal **Node.js**.
 
 1. **Clone repository ini:**
    ```bash
-   git clone [https://github.com/usernameanda/nama-repo.git](https://github.com/usernameanda/nama-repo.git)
-   cd nama-repo
+   git clone https://github.com/RegaAnton/my-portofolio.git
+   cd my-portofolio
    ```
 2. **Install dependensi:**
    ```bash

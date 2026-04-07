@@ -4,8 +4,8 @@
     "role": "Junior Software Engineer & Cybersecurity Enthusiast.",
     "description": "Seorang developer yang antusias dalam membangun aplikasi web yang fungsional sekaligus mempelajari celah keamanannya. Saya memiliki minat besar di bidang Web Development dan Red Teaming. Saya percaya bahwa dengan membangun sistem dari awal (Builder) dan memahami cara mengeksploitasinya (Breaker), saya dapat menciptakan kode yang lebih aman dan tangguh.",
     "email": "giapierro02@gmail.com",
-    "github": "",
-    "linkedin": "https://linkedin.com/in/usernameanda",
+    "github": "https://github.com/RegaAnton",
+    "linkedin": "https://www.linkedin.com/in/giapierro/",
     "profilePicture": "/profile.jpg"
   },
   "skills": [
@@ -71,25 +71,25 @@
       "title": "Junior Penetration Tester (eJPT)",
       "issuer": "eLearnSecurity",
       "year": "2025",
-      "link": "https://link-sertifikat-anda.com"
+      "link": ""
     },
     {
       "title": "Jr Penetration Tester Learning Path",
       "issuer": "TryHackMe",
       "year": "2024",
-      "link": "https://tryhackme.com/p/usernameanda"
+      "link": ""
     },
     {
       "title": "Belajar Back-End Pemula dengan Laravel",
       "issuer": "Dicoding Indonesia",
       "year": "2024",
-      "link": "https://link-sertifikat-anda.com"
+      "link": ""
     },
     {
       "title": "Belajar Dasar Pemrograman Web",
       "issuer": "Dicoding Indonesia",
       "year": "2023",
-      "link": "https://link-sertifikat-anda.com"
+      "link": ""
     }
   ]
 }

@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* Mengubah strategi Dark Mode agar mendengarkan "class" dari next-themes */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-fira-code), ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Base styles untuk transisi yang mulus */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}

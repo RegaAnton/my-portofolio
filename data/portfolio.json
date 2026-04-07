@@ -1,0 +1,95 @@
+{
+  "personal": {
+    "name": "Rega Anton Giapierro.",
+    "role": "Junior Software Engineer & Cybersecurity Enthusiast.",
+    "description": "Seorang developer yang antusias dalam membangun aplikasi web yang fungsional sekaligus mempelajari celah keamanannya. Saya memiliki minat besar di bidang Web Development dan Red Teaming. Saya percaya bahwa dengan membangun sistem dari awal (Builder) dan memahami cara mengeksploitasinya (Breaker), saya dapat menciptakan kode yang lebih aman dan tangguh.",
+    "email": "giapierro02@gmail.com",
+    "github": "",
+    "linkedin": "https://linkedin.com/in/usernameanda",
+    "profilePicture": "/profile.jpg"
+  },
+  "skills": [
+    {
+      "category": "Web Development",
+      "icon": "Code2",
+      "items": [
+        "Backend: PHP, Laravel, Node.js (Basic)",
+        "Frontend: Livewire, Tailwind CSS, HTML/CSS/JS",
+        "Database & API: MySQL, PostgreSQL, RESTful API Design",
+        "Architecture: MVC Pattern, Role-Based Access Control (RBAC)"
+      ]
+    },
+    {
+      "category": "Cybersecurity",
+      "icon": "ShieldAlert",
+      "items": [
+        "Web App Penetration Testing (OWASP Top 10)",
+        "Vulnerability Assessment & Manual Exploitation",
+        "Network Reconnaissance & Port Scanning",
+        "Lab Environments: DVWA, HackTheBox, TryHackMe"
+      ]
+    },
+    {
+      "category": "Tools & Environment",
+      "icon": "SquareTerminal",
+      "items": [
+        "Version Control: Git, GitHub, GitLab",
+        "Security Tools: Burp Suite, Nmap, Wireshark, SQLmap",
+        "OS & Server: Linux (Ubuntu/Kali), Nginx Basic",
+        "Dev Tools: VS Code, Postman, Docker (Basic)"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "MoneyMate (Financial Web App)",
+      "icon": "SquareTerminal",
+      "description": "Aplikasi web manajemen finansial yang dibangun dari awal. Berfokus pada pengembangan fitur fungsional dan antarmuka dinamis. Proyek ini mencakup proses migrasi data dari PostgreSQL ke MySQL serta implementasi relasi database yang kompleks.",
+      "techStack": ["Laravel", "Livewire", "MySQL", "Tailwind"]
+    },
+    {
+      "title": "CTF & Labs Write-ups Collection",
+      "icon": "ShieldAlert",
+      "description": "Kumpulan dokumentasi (write-up) penyelesaian tantangan di platform HackTheBox dan PortSwigger Web Security Academy. Berfokus pada analisis kerentanan seperti SQL Injection, CSRF, XSS, dan Brute Force tingkat lanjut.",
+      "techStack": ["Pentesting", "Burp Suite", "Web Security"]
+    },
+    {
+      "title": "Task Manager RESTful API",
+      "icon": "Code2",
+      "description": "Mengembangkan backend layanan API untuk aplikasi manajemen tugas. Memiliki fitur autentikasi menggunakan JSON Web Tokens (JWT), validasi input yang ketat untuk mencegah injeksi, dan manajemen hak akses (Admin vs User).",
+      "techStack": ["PHP", "Laravel", "REST API", "Postman"]
+    },
+    {
+      "title": "Automated Recon Script",
+      "icon": "SquareTerminal",
+      "description": "Membuat skrip Bash sederhana untuk mengotomatisasi proses reconnaissance (pengumpulan informasi) awal. Skrip ini menggabungkan tool seperti Nmap dan pencarian direktori untuk mempercepat alur kerja saat melakukan Bug Bounty atau CTF.",
+      "techStack": ["Bash", "Linux", "Nmap", "Automation"]
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Junior Penetration Tester (eJPT)",
+      "issuer": "eLearnSecurity",
+      "year": "2025",
+      "link": "https://link-sertifikat-anda.com"
+    },
+    {
+      "title": "Jr Penetration Tester Learning Path",
+      "issuer": "TryHackMe",
+      "year": "2024",
+      "link": "https://tryhackme.com/p/usernameanda"
+    },
+    {
+      "title": "Belajar Back-End Pemula dengan Laravel",
+      "issuer": "Dicoding Indonesia",
+      "year": "2024",
+      "link": "https://link-sertifikat-anda.com"
+    },
+    {
+      "title": "Belajar Dasar Pemrograman Web",
+      "issuer": "Dicoding Indonesia",
+      "year": "2023",
+      "link": "https://link-sertifikat-anda.com"
+    }
+  ]
+}
